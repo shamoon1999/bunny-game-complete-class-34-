@@ -1,2 +1,1 @@
-# bunny-game-complete-class-34-
-compl bunny game
+# C34_template_code
